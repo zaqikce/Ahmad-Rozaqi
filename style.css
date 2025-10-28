@@ -3,3 +3,13 @@ body {
     font-family: Arial, sans-serif;
     color: blue;
 }
+
+.kartu-profil {
+    width: 300px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0,1);
+    text-align: center;
+}
